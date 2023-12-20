@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6eac8ee9-7ca2-46b0-96e6-d6bd0a280d41" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level/gameinfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level/lv_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level/lv_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level/lv_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level/lv_4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/bomb.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/start.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qlgydx_tank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/bk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/boom_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/boom_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/boom_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/boom_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/dl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/hard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/house.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/l.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/ll.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/over.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/r.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/rl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tank1_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tank1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tank1_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tank1_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/u.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/ul.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qlgy/app/GameMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qlgy/game/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qlgy/game/Explode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qlgy/game/GameFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qlgy/game/GameInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qlgy/game/LevelInof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qlgy/map/GameMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qlgy/map/MapTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qlgy/map/TankHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qlgy/tank/EnemyTank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qlgy/tank/MyTank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qlgy/tank/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qlgy/util/BulletsPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qlgy/util/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qlgy/util/EnemyTanksPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qlgy/util/ExplodesPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qlgy/util/MapTilePool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qlgy/util/MusicUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qlgy/util/MyUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sxt/test/TestLineNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/process.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1VUwh5qESTnpyNmVlTJ5fucdvQY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/实验报告/java/tank-game-idea",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea_508\qlgydx_tank\music" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qlgy.tank" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea_508\qlgydx_tank\res" />
+      <recent name="D:\idea_508\qlgydx_tank\music" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.GameMain">
+    <configuration name="GameMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qlgy.app.GameMain" />
+      <module name="qlgydx_tank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qlgy.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLineNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sxt.test.TestLineNumber" />
+      <module name="qlgydx_tank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sxt.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.GameMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER,ALPHA_COMPARATOR,SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6eac8ee9-7ca2-46b0-96e6-d6bd0a280d41" name="Default Changelist" comment="" />
+      <created>1577321097214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577321097214</updated>
+      <workItem from="1577321098853" duration="38864000" />
+      <workItem from="1577448263761" duration="631000" />
+      <workItem from="1577492487660" duration="18902000" />
+      <workItem from="1577579532395" duration="18899000" />
+      <workItem from="1577616307127" duration="3315000" />
+      <workItem from="1577625549744" duration="14000" />
+      <workItem from="1577666242728" duration="21641000" />
+      <workItem from="1577752380770" duration="22674000" />
+      <workItem from="1577874336590" duration="779000" />
+      <workItem from="1577925256625" duration="3917000" />
+      <workItem from="1702881912058" duration="68000" />
+      <workItem from="1702882001335" duration="104000" />
+      <workItem from="1702882119382" duration="91000" />
+      <workItem from="1702882225711" duration="329000" />
+      <workItem from="1702909407864" duration="669000" />
+      <workItem from="1702910659279" duration="1342000" />
+      <workItem from="1702965847205" duration="1678000" />
+      <workItem from="1702990204315" duration="10973000" />
+      <workItem from="1703032813375" duration="4615000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
